@@ -3,7 +3,7 @@
   <h3>Quantitative Researcher | Market Microstructure | AI & Game Theory | MSBA Candidate</h3>
   <p><i>Building institutional-grade trading architectures at the intersection of quantitative finance and multi-agent systems.</i></p>
   
-  <a href="www.linkedin.com/in/vishu-chauhan" target="_blank">
+  <a href="https://www.linkedin.com/in/vishu-chauhan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
